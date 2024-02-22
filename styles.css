@@ -1,4 +1,6 @@
-
+html {
+    zoom: 75%;
+}
 body {
     margin: 0;
     padding: 0;
